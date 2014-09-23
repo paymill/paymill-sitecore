@@ -3,7 +3,7 @@
 
 # PAYMILL .NET
 
-Module for Sitecore [SITECORE](http://www.sitecore.net/) .
+Paymill Module for [SITECORE](http://www.sitecore.net/) .
 
 ## Getting started
 
