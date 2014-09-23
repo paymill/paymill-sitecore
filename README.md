@@ -3,12 +3,11 @@
 
 # PAYMILL .NET
 
-A .NET wrapper for the  [PAYMILL](https://www.paymill.com/) API.
+Module for Sitecore [SITECORE](http://www.sitecore.net/) .
 
 ## Getting started
 
-
-## Installation Module
+## Installation 
 
 Please install Paymill Wrapper for the PAYMILL API, run the following command in the [Package Manager Console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console)
 
@@ -16,10 +15,7 @@ Please install Paymill Wrapper for the PAYMILL API, run the following command in
 ### Using 
 
 ```cs
-    <link rel="stylesheet" type="text/css" href="css/paymill_styles.css" /> 
-    <script src="js/jquery.min.js"></script>%
-    <script type="text/javascript" src="https://bridge.paymill.de/"></script>
-    <script type="text/javascript" src="js/creditcard_brand_detection.js"></script>
+   
 ```
 
 ## License
