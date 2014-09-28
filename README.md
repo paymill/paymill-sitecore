@@ -1,9 +1,10 @@
 
 ![PAYMILL icon](https://static.paymill.com/r/335f99eb3914d517bf392beb1adaf7cccef786b6/img/logo-download_Light.png)
 
-# [Sitecore](http://www.sitecore.net/) Payment Module.
 
-A Sitecore module to allow payments through [PAYMILL](https://www.paymill.com/) API .
+# Paymill payment module for [Sitecore](http://www.sitecore.net/)
+
+This module allows payments through [PAYMILL](https://www.paymill.com/) API in [Sitecore](http://www.sitecore.net/) CMS.
 
 ## Getting started
 
